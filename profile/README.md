@@ -1,6 +1,4 @@
-## Hi there 👋
-
-![https://github.com/bengalproductions/.github/blob/main/profile/bengalproductionsreheader.png]
+![](https://github.com/bengalproductions/.github/blob/main/profile/bengalproductionsreheader.png)
 
 Thanks to [Khaleel Gibran](https://github.com/khalby786) and his README welcome image generator [REHeader](https://reheader.glitch.me/) ([View it on GitHub](https://github.com/khalby786/REHeader))
 
