@@ -1,4 +1,4 @@
-<a href="https://bengal.productions">![](https://github.com/bengalproductions/.github/blob/main/profile/bengalproductionsreheader.png)</a>
+
 
 <a href="https://beng.al/links">View our links</a>
 
